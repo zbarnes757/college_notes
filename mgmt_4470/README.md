@@ -12,3 +12,4 @@ Taken Spring 2020 at UNT
 - [Chapter 6](chapter_6.md)
 - [Chapter 7](chapter_7.md)
 - [Chapter 8](chapter_8.md)
+- [Chapter 9](chapter_9.md)
