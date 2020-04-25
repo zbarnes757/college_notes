@@ -34,7 +34,7 @@ The first studies of LMX were called Vertical Dyad Linkage (VDL). The focus was 
 
 The first was an in-group or one that took on expanded/negotiated role responsibilities. These relationships marked by mutual trust, respect, liking, and reciprocal influence. They receive more information, influence, confidence, and concern than out-group members.
 
-The second was the out-group or one that simply worked according to their formal employment contract (defined-roles). They had eelationships marked by formal communication based on job descriptions.
+The second was the out-group or one that simply worked according to their formal employment contract (defined-roles). They had relationships marked by formal communication based on job descriptions.
 
 In-group/out-group status based on how well follower works with the leader and how well the leader works with the follower. How followers involve themselves in expanding their role responsibilities with the leader determines whether they become in-group or out-group participants. Becoming part of the in-group involves follower negotiations in performing activities beyond the formal job description.
 
