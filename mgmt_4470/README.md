@@ -18,3 +18,4 @@ Taken Spring 2020 at UNT
 - [Chapter 12: Followership](chapter_12.md)
 - [Chapter 13: Leadership Ethics](chapter_13.md)
 - [Chapter 14: Team Leadership](chapter_14.md)
+- [Chapter 15: Gender and Leadership](chapter_15.md)
