@@ -15,3 +15,4 @@ Taken Spring 2020 at UNT
 - [Chapter 9: Authentic Leadership](chapter_9.md)
 - [Chapter 10: Servant Leadership](chapter_10.md)
 - [Chapter 11: Adaptive Leadership](chapter_11.md)
+- [Chapter 12: Followership](chapter_12.md)
