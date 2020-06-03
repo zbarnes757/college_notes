@@ -40,12 +40,12 @@
    - Stage 1--Obedience and Punishment: Rules are fixed and handed down by authority
    - Stage 2--Individualism and Exchange: An action is right if it serves the individual
 
-2. Conventional morality
+2. _Conventional morality_:
 
    - Stage 3--Interpersonal Accord and Conformity: Conforming to the expectations of others
    - Stage 4--Maintaining the Social Order: Moral decisions show concern for society as a whole
 
-3. Level 3. Post-conventional Morality
+3. _Post-conventional Morality_:
    - Stage 5--Social Contract and Individual Rights: Moral decisions based on what a good society should be like
    - Stage 6--Universal Principles: Moral decisions based on internalized universal principles of justice that apply to everyone
 
