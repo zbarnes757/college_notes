@@ -4,4 +4,5 @@ This is a collection of notes for the classes that I take. I am trying a system 
 
 # Table of Contents
 
+- [MGMT 3720](./mgmt_3720/README.md)
 - [MGMT 4470](./mgmt_4470/README.md)
