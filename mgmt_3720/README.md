@@ -11,3 +11,4 @@ Taken Summer 2020 at UNT
 - [Chapter 5: Personality and Values](chapter_5.md)
 - [Chapter 6: Perception and Individual Decision Making](chapter_6.md)
 - [Chapter 7: Motivation Concepts](chapter_7.md)
+- [Chapter 8: Motivation: From Concepts to Applications](chapter_8.md)
