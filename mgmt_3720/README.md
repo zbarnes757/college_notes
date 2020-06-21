@@ -14,3 +14,4 @@ Taken Summer 2020 at UNT
 - [Chapter 8: Motivation: From Concepts to Applications](chapter_8.md)
 - [Chapter 9: Foundations of Group Behavior](chapter_9.md)
 - [Chapter 10: Understanding Work Teams](chapter_10.md)
+- [Chapter 12: Leadership](chapter_12.md)
